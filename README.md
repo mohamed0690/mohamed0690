@@ -27,7 +27,7 @@
 ## 🛠 Languages and Tools
 <br>
 <p align="center">
-<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://angular.io" title="Angular"><img src="https://angular.io/assets/images/logos/angular/angular.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular"></a>
 <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.python.org/" title="React"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"></a>
@@ -40,13 +40,10 @@
 
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed0690&theme=tokyonight_duo" alt="mohamed0690" /></p>
-  <br/>
-  <p align="center">
+<br/>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img alt="mohamed0690's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamed0690&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed0690&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mohamed0690" height="230px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed0690&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mohamed0690" height="230px"/>
 <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-  
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
