@@ -2,22 +2,22 @@
 <h3 align="center">Full Stack Developer | MERN Specialist | Angular Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamed0690&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed0690" />
-  <img src="https://img.shields.io/github/followers/mohamed0690?label=Followers" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=mohamed0690&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mohamed0690?label=Followers&style=flat-square" alt="Followers" />
 </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250" alt="coding-gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250" alt="Coding animation" />
+
+---
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer & Information Science graduate from **Ain Shams University**
-- 💼 Currently working as a **Frontend Developer** at **Engaz CRM**
-- 🔭 Building: MERN eCommerce projects, APIs, and scalable frontend systems
-- 🌱 Learning: `Node.js`, `React.js`, `Docker`, and backend architecture best practices
-- 📄 [View My Resume](https://drive.google.com/file/d/1_rm8imeEqe4_BJc02z5O4JKL-C0_SyZ7/view?usp=sharing)
-- 💌 Reach me at: **mohamedmahrous069@gmail.com**
-- 🤝 Open to new opportunities and collaborations
-- 🧠 Always exploring and learning something new!
+- 🎓 Graduated from **Ain Shams University**, Faculty of Computer & Information Science  
+- 💼 Frontend Developer at **Engaz CRM**, contributing to real-world Angular systems  
+- 🔭 Currently building MERN-based projects & scalable APIs  
+- 🌱 Learning: `Node.js`, `React.js`, `Docker`, and advanced backend patterns  
+- 💌 Email: **mohamedmahrous069@gmail.com**  
+- 🧠 Always open to new opportunities → [My Resume](https://drive.google.com/file/d/1_rm8imeEqe4_BJc02z5O4JKL-C0_SyZ7/view?usp=sharing)
 
 ---
 
@@ -39,73 +39,86 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed0690&show_icons=true&theme=tokyonight&count_private=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed0690&layout=compact&theme=tokyonight" height="200"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed0690&theme=tokyonight_duo"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed0690&theme=tokyonight&row=2&column=3&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🧩 Featured Projects
+## 📈 GitHub Stats
 
-### 🔹 [Fresh Cart](https://github.com/mohamed0690/Fresh-Cart) · Angular eCommerce App  
-🛍️ Product catalog, cart, checkout  
-`Angular`, `Bootstrap`, `Typescript`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed0690&show_icons=true&theme=tokyonight&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed0690&layout=compact&theme=tokyonight" height="200" />
+</p>
 
-### 🔹 [Noxe Movies](https://github.com/mohamed0690/Noxe-Movies) · Trending Movies App  
-🎬 Integrated with TMDB API  
+---
+
+## 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed0690&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [Fresh Cart](https://github.com/mohamed0690/Fresh-Cart)  
+🛒 Angular e-commerce app with cart and checkout  
+`Angular`, `Bootstrap`, `TypeScript`
+
+### 🔹 [Noxe Movies](https://github.com/mohamed0690/Noxe-Movies)  
+🎬 Trending movies & TV shows using TMDB API  
 `React`, `Redux Toolkit`, `JWT`, `Formik`, `Yup`
 
-### 🔹 [Strong Care](https://github.com/mohamed0690/Strong-Care) · CRM System  
-🛠️ Frontend + Backend with client communication features  
+### 🔹 [Strong Care](https://github.com/mohamed0690/Strong-Care)  
+🧑‍💼 CRM system with client tracking and communication  
 `React`, `Node.js`, `MongoDB`, `Socket.io`
 
-### 🔹 [WeatherIO](https://github.com/mohamed0690/Weather-io) · Weather Forecast App  
-🌤️ Location-based weather and forecast  
+### 🔹 [WeatherIO](https://github.com/mohamed0690/Weather-io)  
+🌦️ Real-time weather updates with 5-day forecast  
 `JavaScript`, `OpenWeatherMap API`
 
-### 🔹 [E-Commerce Book API](https://github.com/mohamed0690/BookStore-Ecommerce)  
-📚 Browse and buy books using Google Book API  
-`JavaScript`, `API`, `Bootstrap`
+### 🔹 [Book E-Commerce](https://github.com/mohamed0690/BookStore-Ecommerce)  
+📚 Browse and purchase books using Google Books API  
+`JavaScript`, `HTML`, `Bootstrap`
 
 ---
 
-## 📚 Education & Training
+## 🎓 Education & Training
 
-- 🎓 **B.Sc. Computer & Information Science**, Ain Shams University  
-  🧪 Graduation Project: *Fake News Detection using LSTM* – `Python`, `TensorFlow`, `Flask`
+- 🎓 **B.Sc. in Computer & Information Science**, Ain Shams University  
+  🧪 Graduation Project: *Fake News Detection using LSTM*  
+  `Python`, `TensorFlow`, `Flask`
 
-- 🏛️ **Full Stack MEARN Track** – ITI Intensive Training (3 months)  
-- 📚 **Front-End Diploma (Angular)** – Route Academy (5 months)
+- 🎓 **Full Stack MEARN Track** – ITI (3 Months Intensive)  
+- 🎓 **Front-End Angular Diploma** – Route Academy (5 Months)
 
 ---
 
-## 🎯 Skills Snapshot
+## 🧠 Skills Summary
 
 ### 💻 Frontend
-`HTML`, `CSS`, `JavaScript`, `TypeScript`, `Angular`, `React`, `Redux`, `Bootstrap`, `Tailwind`, `Sass`
+`HTML`, `CSS`, `JavaScript`, `TypeScript`, `Angular`, `React`, `Redux`, `Tailwind`, `Bootstrap`, `Sass`
 
-### 🧩 Backend
-`Node.js`, `Express`, `MongoDB`, `MySQL`, `GraphQL`, `REST APIs`, `Docker`, `Socket.IO`
+### 🛠 Backend
+`Node.js`, `Express`, `MongoDB`, `MySQL`, `REST APIs`, `GraphQL`, `Socket.IO`, `Docker`
 
-### 🛠 Other
-`Git`, `GitHub`, `Postman`, `OOP`, `Agile`, `Linux`, `Problem Solving`, `Design Patterns`
-
----
-
-## 🏆 Certificates
-
-- MongoDB – *Introduction to MongoDB*
-- LinkedIn – *Programming Foundations: Design Patterns*
-- Udemy – *Complete Node.js Course*, *React 18 (Redux, Hooks, Router… Arabic)*
+### 🔧 Others
+`Git`, `GitHub`, `OOP`, `Design Patterns`, `Postman`, `Agile`, `Problem Solving`, `C++`, `Java`, `Python`
 
 ---
 
-> “I code to learn, I learn to build, and I build to grow.”
+## 📜 Certifications
+
+- ✅ MongoDB – *Introduction to MongoDB*  
+- ✅ LinkedIn – *Design Patterns*  
+- ✅ Udemy – *Node.js*, *React 18 (Arabic)*
 
 ---
 
+> “I build clean, scalable apps with passion, purpose, and performance.”  
+> Let’s connect and build something great together! 🚀
