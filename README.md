@@ -12,12 +12,13 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Frontend Developer at **Engaz CRM**, contributing to real-world Angular systems  
-- 🎓 Graduated from **Ain Shams University**, Faculty of Computer & Information Science  
-- 🔭 Currently building MERN-based projects & scalable APIs  
-- 🌱 Learning: `Node.js`, `React.js`, `Docker`, and advanced backend patterns  
-- 💌 Email: **mohamedmahrous069@gmail.com**  
-- 🧠 Always open to new opportunities → [My Resume](https://drive.google.com/file/d/1_rm8imeEqe4_BJc02z5O4JKL-C0_SyZ7/view?usp=sharing)
+- 💼 Frontend Developer at **Engaz CRM**, building real-world Angular systems  
+- 🎓 Graduate of **Ain Shams University** – Computer & Information Science  
+- 🔭 Currently working on scalable **MERN stack** projects and API integrations  
+- 🚀 Passionate about clean architecture, automation, and performance optimization  
+- 🌱 Exploring: `Docker`, `DevOps`, and advanced backend patterns  
+- 📬 Email: **mohamedmahrous069@gmail.com**  
+- 📄 [View My Resume](https://drive.google.com/file/d/1_rm8imeEqe4_BJc02z5O4JKL-C0_SyZ7/view?usp=sharing)
 
 ---
 
@@ -36,6 +37,38 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,mongodb,mysql,redux,bootstrap,tailwind,sass,git,github,docker,linux,figma,postman,webpack,vscode" />
 </p>
+
+---
+
+## 🧠 Skills Summary
+
+### 💻 Frontend
+`HTML`, `CSS`, `JavaScript`, `TypeScript`, `Angular`, `React`, `Redux`, `Tailwind`, `Bootstrap`, `Sass`
+
+### 🛠 Backend
+`Node.js`, `Express`, `MongoDB`, `MySQL`, `REST APIs`, `GraphQL`, `Socket.IO`, `Docker`
+
+### 🔧 Tools & Concepts
+`Git`, `GitHub`, `OOP`, `Design Patterns`, `Postman`, `Agile`, `CI/CD`, `Problem Solving`, `C++`, `Java`, `Python`
+
+---
+
+## 🎓 Education & Training
+
+- 🎓 **B.Sc. in Computer & Information Science**, Ain Shams University  
+  🧪 *Graduation Project: Fake News Detection using LSTM*  
+  `Python`, `TensorFlow`, `Flask`
+
+- 🎓 **Full Stack MEARN Track** – Information Technology Institute (ITI)  
+- 🎓 **Front-End Angular Diploma** – Route Academy  
+
+---
+
+## 📜 Certifications
+
+- ✅ MongoDB University – *Introduction to MongoDB*  
+- ✅ LinkedIn Learning – *Design Patterns*  
+- ✅ Udemy – *Node.js for Developers*, *React 18 (Arabic)*
 
 ---
 
@@ -64,37 +97,5 @@
 
 ---
 
-## 🎓 Education & Training
-
-- 🎓 **B.Sc. in Computer & Information Science**, Ain Shams University  
-  🧪 Graduation Project: *Fake News Detection using LSTM*  
-  `Python`, `TensorFlow`, `Flask`
-
-- 🎓 **Full Stack MEARN Track** – ITI (3 Months Intensive)  
-- 🎓 **Front-End Angular Diploma** – Route Academy (5 Months)
-
----
-
-## 🧠 Skills Summary
-
-### 💻 Frontend
-`HTML`, `CSS`, `JavaScript`, `TypeScript`, `Angular`, `React`, `Redux`, `Tailwind`, `Bootstrap`, `Sass`
-
-### 🛠 Backend
-`Node.js`, `Express`, `MongoDB`, `MySQL`, `REST APIs`, `GraphQL`, `Socket.IO`, `Docker`
-
-### 🔧 Others
-`Git`, `GitHub`, `OOP`, `Design Patterns`, `Postman`, `Agile`, `Problem Solving`, `C++`, `Java`, `Python`
-
----
-
-## 📜 Certifications
-
-- ✅ MongoDB – *Introduction to MongoDB*  
-- ✅ LinkedIn – *Design Patterns*  
-- ✅ Udemy – *Node.js*, *React 18 (Arabic)*
-
----
-
-> “I build clean, scalable apps with passion, purpose, and performance.”  
+> _"I build clean, scalable apps with passion, purpose, and performance."_  
 > Let’s connect and build something great together! 🚀
