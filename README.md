@@ -12,8 +12,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Graduated from **Ain Shams University**, Faculty of Computer & Information Science  
 - 💼 Frontend Developer at **Engaz CRM**, contributing to real-world Angular systems  
+- 🎓 Graduated from **Ain Shams University**, Faculty of Computer & Information Science  
 - 🔭 Currently building MERN-based projects & scalable APIs  
 - 🌱 Learning: `Node.js`, `React.js`, `Docker`, and advanced backend patterns  
 - 💌 Email: **mohamedmahrous069@gmail.com**  
@@ -61,30 +61,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed0690&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [Fresh Cart](https://github.com/mohamed0690/Fresh-Cart)  
-🛒 Angular e-commerce app with cart and checkout  
-`Angular`, `Bootstrap`, `TypeScript`
-
-### 🔹 [Noxe Movies](https://github.com/mohamed0690/Noxe-Movies)  
-🎬 Trending movies & TV shows using TMDB API  
-`React`, `Redux Toolkit`, `JWT`, `Formik`, `Yup`
-
-### 🔹 [Strong Care](https://github.com/mohamed0690/Strong-Care)  
-🧑‍💼 CRM system with client tracking and communication  
-`React`, `Node.js`, `MongoDB`, `Socket.io`
-
-### 🔹 [WeatherIO](https://github.com/mohamed0690/Weather-io)  
-🌦️ Real-time weather updates with 5-day forecast  
-`JavaScript`, `OpenWeatherMap API`
-
-### 🔹 [Book E-Commerce](https://github.com/mohamed0690/BookStore-Ecommerce)  
-📚 Browse and purchase books using Google Books API  
-`JavaScript`, `HTML`, `Bootstrap`
 
 ---
 
