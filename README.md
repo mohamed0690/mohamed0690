@@ -174,16 +174,7 @@
 
 ---
 
-## 📈 GitHub Chronicles — Stats & Trophies
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohamed0690&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed0690&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamed0690&theme=tokyonight&row=2&column=3&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+## 📈 GitHub Chronicles
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed0690&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" />
