@@ -8,7 +8,7 @@
 <div align="center">
   
   <!-- Animated Gradient Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Mohamed+Mahrous;Software+Engineer+II;Fintech+Architect;Full+Stack+Alchemist;Blockchain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Mohamed+Mahrous;Software+Engineer+II;Full+Stack+Developer;Frontend+Developer" alt="Typing SVG" />
   
   <!-- Floating Badges -->
   <p>
