@@ -36,7 +36,7 @@
 - 💼 **Past Life:** Frontend wizard at **Engaz AI** — tamed CRMs, HR systems, and real estate giants.
 - 🎓 **Brain Fuel:** B.Sc. in Computer Science, Ain Shams University (Grad project: *Fake News Detection with LSTM*).
 - 📬 **Beam me a message:** [mohamedmahrous069@gmail.com](mailto:mohamedmahrous069@gmail.com)
-- 📜 **Resume:** [Unleash the PDF](https://drive.google.com/file/d/1_rm8imeEqe4_BJc02z5O4JKL-C0_SyZ7/view?usp=sharing) (updated 2026)
+- 📜 **Resume:** [Unleash the PDF](https://drive.google.com/file/d/13EYeneKa4DFskLfgfNfnYl9JUoT7Dr4O/view) (updated 2026)
 
 > 💡 **Life motto:** *"Clean code, real‑time dreams, and zero downtime."*
 
