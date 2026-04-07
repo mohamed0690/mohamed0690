@@ -14,11 +14,25 @@
 -->
 
 <div align="center">
+<!-- CUSTOM ASCII WAVE HEADER – NEVER BREAKS -->
+<p align="center">
+  <samp>
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=MOHAMED+MAHROUS;Software+Engineer+II;Fintech+%7C+Full+Stack+Architect" alt="Typing SVG" />
+  </samp>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MOHAMED%20MAHROUS&fontSize=55&fontColor=00FFAA&fontAlignY=38&desc=Software%20Engineer%20II%20%7C%20Fintech%20%26%20Full%20Stack%20Architect&descAlignY=58&descColor=a0aec0&animation=fadeIn" />
+<p align="center">
+  <code>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</code>
+</p>
 
-<!-- Cinematic typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&multiline=false&width=700&lines=↳+Building+real-time+fintech+platforms...;↳+Shipping+crypto+payment+gateways...;↳+Architecting+Binance-like+exchanges...;↳+Squashing+bugs+at+3AM+%F0%9F%90%9B;↳+Writing+code+that+doesn't+cry+in+production." alt="Typing" />
+<p align="center">
+  <i>↳ Building real‑time fintech platforms &nbsp;|&nbsp; ↳ Shipping crypto payment gateways &nbsp;|&nbsp; ↳ Architecting Binance‑like exchanges</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&center=true&width=500&lines=Squashing+bugs+at+3AM+%F0%9F%90%9B;Writing+code+that+doesn't+cry+in+production." alt="Typing 2" />
+</p>
 
 <br/>
 
