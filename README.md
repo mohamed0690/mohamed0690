@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <i>↳ Building real‑time fintech platforms &nbsp;|&nbsp; ↳ Shipping crypto payment gateways &nbsp;|&nbsp; ↳ Architecting Binance‑like exchanges</i>
+  <i>↳ Building real‑time fintech platforms &nbsp;|&nbsp; ↳ Creator of TabeebPlus Clinic Management Software &nbsp;|&nbsp; ↳ Architecting Binance‑like exchanges</i>
 </p>
 
 <p align="center">
@@ -41,6 +41,9 @@
 <a href="#"><img src="https://img.shields.io/badge/%F0%9F%9A%80_STACK-MERN_%2B_ANGULAR-FF3366?style=for-the-badge&labelColor=0d1117" /></a>
 <a href="#"><img src="https://img.shields.io/badge/%F0%9F%94%97_DOMAIN-FINTECH_%26_WEB3-6C5CE7?style=for-the-badge&labelColor=0d1117" /></a>
 <a href="#"><img src="https://img.shields.io/badge/%F0%9F%8E%93_BSc-AIN_SHAMS_UNIV-FFB800?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://tabeebplus.com">
+<img src="https://img.shields.io/badge/TabeebPlus-Clinic_Management_Software-00C853?style=for-the-badge" />
+</a>
 
 <br/>
 
@@ -279,6 +282,33 @@ $ git log --oneline --graph freelance/projects
 
 ---
 
+# 🚀 Founder Projects
+
+## 🩺 TabeebPlus — Clinic Management Software
+
+I'm the founder and developer of **TabeebPlus**, a modern clinic management software designed for doctors, private clinics, and medical centers.
+
+### Key Features
+
+- Appointment Scheduling
+- Electronic Medical Records (EMR)
+- Billing & Invoicing
+- Prescription Management
+- Multi-Branch Support
+- Offline Desktop Application
+- Reports & Analytics
+
+🌐 **Official Website**
+https://tabeebplus.com
+
+⬇️ **Download Desktop**
+https://tabeebplus.com/desktop/download
+
+📖 **Documentation**
+https://tabeebplus.com/docs
+
+---
+
 ## 🧪 FEATURED PROJECTS — The Crown Jewels
 
 <details open>
@@ -412,3 +442,9 @@ m.daily_routine()
 [![Resume](https://img.shields.io/badge/-Download_Resume-00FFAA?style=flat-square&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/13EYeneKa4DFskLfgfNfnYl9JUoT7Dr4O/view)
 
 </div>
+
+## 🌍 My Products
+
+| Product | Website |
+|---------|---------|
+| 🩺 TabeebPlus Clinic Management Software | https://tabeebplus.com |
